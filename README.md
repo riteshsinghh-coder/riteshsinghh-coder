@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @riteshsinghh-coder
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-riteshsinghh-coder/riteshsinghh-coder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Full Stack JavaScript Developer with a passion for creating dynamic and scalable web applications.
+Experienced with HTML, CSS, JavaScript, Node.js, Express.js, MongoDB, EJS, and always eager to learn and tackle new challenges. 
+Let's build something great together!
